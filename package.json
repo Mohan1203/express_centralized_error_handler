@@ -1,6 +1,6 @@
 {
   "name": "express_centralized_error_handler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package make error handling smooth in express",
   "main": "index.js",
   "scripts": {
